@@ -1,6 +1,6 @@
 # Insights Coding Challenge
 ## Dependencies
-This was coded with Python 2.7. There shouldn't be any dependencies beyond standard python.
+This was coded with Python 2.7 on OSX 10.9.5. There shouldn't be any dependencies beyond standard python.
 ## How to run
 Make sure run.sh is executable, and type `./run.sh`
 ## Run Notes
